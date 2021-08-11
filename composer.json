@@ -1,0 +1,19 @@
+{
+    "name": "stoforc/hello-world-package",
+    "description": "package - hello",
+    "autoload": {
+        "psr-4": {
+            "Hello": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stepanov Sergeu",
+            "email": "prostoforce1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4.0"
+    }
+}
