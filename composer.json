@@ -1,7 +1,6 @@
 {
     "name": "stoforc/hello-world-package",
     "description": "package - hello",
-    "version": "2.*",
     "autoload": {
         "psr-4": {
             "Hello\\": "src/"
@@ -16,6 +15,6 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
-        "php": ">=7.4.0"
+        "php": ">=7.3.0"
     }
 }
