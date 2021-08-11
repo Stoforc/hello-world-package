@@ -1,6 +1,7 @@
 {
     "name": "stoforc/hello-world-package",
     "description": "package - hello",
+    "version": "2.*",
     "autoload": {
         "psr-4": {
             "Hello\\": "src/"
