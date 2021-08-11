@@ -12,6 +12,7 @@
             "email": "prostoforce1@gmail.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.4.0"
