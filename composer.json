@@ -6,6 +6,7 @@
             "Hello\\": "src/"
         }
     },
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Stepanov Sergeu",
